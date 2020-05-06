@@ -11,7 +11,8 @@
 ![Figure_1](https://user-images.githubusercontent.com/22034172/81135882-b0fe6e80-8f0e-11ea-9470-2abfccb8df11.png)
 <p>
   In addition, I have attatched a side by side comparison video of a trained car and myself driving around the track. <p>
-[![Side by Side Driving](https://img.youtube.com/vi/Z4yH-NK1KHg/0.jpg)](https://www.youtube.com/watch?v=Z4yH-NK1KHg)
+[![SideBySideDriving](http://img.youtube.com/vi/Z4yH-NK1KHg/0.jpg)](http://www.youtube.com/watch?v=Z4yH-NK1KHg)
+
   
 # Plans for the Future
   In the future, I plan on joining the DonkeyCar virtual racing league. To do so though, I plan on further training my neural net so that it can compete at a higher level. Currently, it is taking a slow but steady approach, only ever maxing its speed out at 30% of the maximum throttle. <p>
