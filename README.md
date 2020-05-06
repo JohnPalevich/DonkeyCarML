@@ -4,7 +4,7 @@
   To download the necessary tools, I followed the instructions from the DonkeyCar virtual race league [here](https://docs.donkeycar.com/guide/simulator/) 
 # Problems I Ran Into
   An annoying error I ran into while trying to set the project up was Miniconda required the install location to have no spaces. However, my users folder name was "John Palevich" and I didn't have the permissions to change the folder name. To get around this, I created a new user on my pc with a name that did not contain a space. <p>
-  A secondary problem I ran into was that my CPU is very weak, so the simulation ran on my computer at around 4 frames per second. To cope with this, I borrowed a friends computer to host the simulation, and I connected to it using the internet. Fortunately, I have a strong GPU, and training the neural net was fairly easy.
+  A secondary problem I ran into was that my CPU is very weak, so the simulation ran on my computer at around 4 frames per second. To cope with this, I borrowed a friends computer to host the simulation, and I connected to it using the internet. Here, the simulation ran at a more bearable 17 fps. Fortunately, I have a strong GPU, so after I collected the training data, training the neural net was fairly quick.
 
 # Results
   Below is a graph generated to show how the bot became more accurate as the training algorithm repeated the learning on the training set: <p>
